@@ -49,23 +49,6 @@ Our analysis focuses on understanding the prevalence and consequences of malnutr
 - Regional analysis of malnutrition rates.
 - Impact of malnutrition on public health.
 
-## Website Deployment
-
-We have deployed the project on a website to make it more accessible to a broader audience. You can access the project online at [Website URL](https://www.yourwebsite.com/malnutrition).
-
-## Contributing
-
-We welcome contributions to enhance the project's impact and reach. To contribute:
-
-1. Fork the repository.
-
-2. Create a new branch: `git checkout -b feature-new-feature`.
-
-3. Make your changes and commit them: `git commit -m "Add feature"`
-
-4. Push to the branch: `git push origin feature-new-feature`
-
-5. Create a pull request.
 
 
 ## Acknowledgments
